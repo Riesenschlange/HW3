@@ -13,6 +13,7 @@
 ![screen](https://a.radikal.ru/a32/1904/29/4aa3e8467f9c.jpg)
 Частотный список четырёхсловных сочетаний
 ![screen](https://d.radikal.ru/d26/1904/68/bceb29b62c31.jpg)
+<br>
 Cписки коллокатов слова "князь"
 ![screen](https://a.radikal.ru/a12/1904/8a/886fdeb6a5b7.jpg)
 Взор VS взгляд в Google Ngrams
